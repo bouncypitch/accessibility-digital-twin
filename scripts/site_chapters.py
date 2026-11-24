@@ -140,8 +140,8 @@ def page(c: dict) -> str:
 <title>AccessTwin Demo</title>
 <meta name="description" content="Walk a workplace before it is built, as the people it might shut out. 70% to 99% accessibility score, 68 to 3 problems.">
 <meta property="og:title" content="AccessTwin"><meta property="og:description" content="Walk a workplace before it is built, as the people it might shut out.">
-<meta property="og:image" content="https://bouncypitch.github.io/accesstwin-accessibility-digital-twin/media/social-preview.png"><meta property="og:url" content="https://bouncypitch.github.io/accesstwin-accessibility-digital-twin/">
-<meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="https://bouncypitch.github.io/accesstwin-accessibility-digital-twin/media/social-preview.png">
+<meta property="og:image" content="https://bouncypitch.github.io/accessibility-digital-twin/media/social-preview.png"><meta property="og:url" content="https://bouncypitch.github.io/accessibility-digital-twin/">
+<meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="https://bouncypitch.github.io/accessibility-digital-twin/media/social-preview.png">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;650;800&display=swap" rel="stylesheet">
 <style>{CSS}</style></head><body>
 <nav><div class="in"><b>AccessTwin</b>{nav}</div></nav>

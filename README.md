@@ -5,7 +5,7 @@
 Walk a workplace before it is built, as the people it might shut out.
 Track 1 (Accessible Workplace Twin), Future of Work Hackathon @ Stanford.
 
-**Demo site and video: https://bouncypitch.github.io/accesstwin-accessibility-digital-twin/**
+**Demo site and video: https://bouncypitch.github.io/accessibility-digital-twin/**
 
 A 2-minute iPhone scan becomes a metric digital twin. A research agent builds a cited program for the new use (here: a
 robotics lab), a design agent lays it out, and four persona agents (wheelchair user, low vision / color-blind,

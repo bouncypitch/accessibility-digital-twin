@@ -9,7 +9,7 @@ SITE="$ROOT/demo/site"
 (cd "$ROOT" && uv run accesstwin audit specs/design_a.json >/dev/null 2>&1 &)
 
 # The website first: the live GitHub Pages site, or the local copy when offline.
-WEB="https://bouncypitch.github.io/accesstwin-accessibility-digital-twin/"
+WEB="https://bouncypitch.github.io/accessibility-digital-twin/"
 curl -sf -m 3 -o /dev/null "$WEB" || WEB="file://$SITE/index.html"
 
 # One new Chrome window, tabs in demo order (local files work offline).
